@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework4</string>
+    <string name="log_in">Log In</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="trivia">Trivia</string>
+    <string name="or">OR</string>
+    <string name="game_now">GAME NOW</string>
+    <string name="up_with_email">Up with Email</string>
+</resources>
